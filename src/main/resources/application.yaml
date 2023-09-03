@@ -9,9 +9,9 @@ spring:
     username: root
     password: 520517li
   redis:
-    host: 192.168.10.102
+    host: localhost
     port: 6379
-    password:
+    password: 520517li
     lettuce:
       pool:
         max-active: 10
